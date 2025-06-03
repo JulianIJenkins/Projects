@@ -4,7 +4,7 @@ import csv
 # MySQL Database Connection Details
 DB_HOST = "localhost"
 DB_USER = "root"  # Change this to your MySQL username
-DB_PASSWORD = "Julian2004"  # Change this to your MySQL password
+DB_PASSWORD = "PASSWORD"  # Change this to your MySQL password
 DB_NAME = "Movies"
 
 # CSV File Path
